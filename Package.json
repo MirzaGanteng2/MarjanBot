@@ -39,7 +39,7 @@
     "yt-search": "^2.7.6"
   },
   "scripts": {
-    "start": "node main",
+    "start": "npm start",
     "test": "supervisor main"
   },
   "repository": {
